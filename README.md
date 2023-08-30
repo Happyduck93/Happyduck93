@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+This is Deokyeong Kim! 
+
+- 🌱 I’m currently learning AI, ML, Deep learning
+- ⚡ Fun fact: Love Plants, Golf and Baking
+- 😄 Pronouns: She/Her
+- 📫 How to reach me: https://www.linkedin.com/in/deokyeong-kim-382704197/
